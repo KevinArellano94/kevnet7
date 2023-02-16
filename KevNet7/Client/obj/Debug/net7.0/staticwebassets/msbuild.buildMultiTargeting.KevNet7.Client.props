@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KevNet7.Client.props" />
+</Project>
